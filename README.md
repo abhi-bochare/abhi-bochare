@@ -13,7 +13,7 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on: [Meal Master App](https://meal-masterr.netlify.app/)
 - 🌱 I’m learning: **System Design**
-- 💬 Ask me about: `React`, `Node.js`, `Express`, `MongoDB`, `Firebase`
+- 💬 Ask me about: `JavaScript`, `React`, `Node.js`, `Express`, `MongoDB`, `Firebase`
 - 📫 Reach me at: **abhishekbochare2003@gmail.com**
 
 ---
